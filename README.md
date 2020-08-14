@@ -2,7 +2,7 @@
 A way for new  feature introduction and step-by-step users guide for your react-native app
 
 # Install
-Run ```npm install react-native-Intro --save``` in your Project dir
+Run ```npm install react-native-intros --save``` in your Project dir
 
 # Usage
 

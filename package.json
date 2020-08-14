@@ -1,27 +1,19 @@
 {
-  "name": "react-native-Intro",
+  "name": "react-native-intros",
   "version": "1.0.0",
-  "description": "A way for new feature introduction and step-by-step users guide for your react-native app",
+  "description": "0.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:18605161612/react-native-Intro.git"
+    "url": "git+https://github.com/18605161612/react-native-Intro.git"
   },
-  "keywords": [
-    "react-native-intro",
-    "intro",
-    "react-native"
-  ],
-  "author": "lyan",
-  "license": "ISC",
+  "author": "Awe",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/18605161612/react-native-Intro/issues"
-  },
-  "dependencies": {
-    "react-native-root-siblings": "^1.1.2"
   },
   "homepage": "https://github.com/18605161612/react-native-Intro#readme"
 }
