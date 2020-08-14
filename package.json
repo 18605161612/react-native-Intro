@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/liuzheng644607/react-native-intro.git"
+    "url": "git+ssh://git@github.com:18605161612/react-native-Intro.git"
   },
   "keywords": [
     "react-native-intro",
@@ -18,10 +18,10 @@
   "author": "lyan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liuzheng644607/react-native-intro/issues"
+    "url": "https://github.com/18605161612/react-native-Intro/issues"
   },
   "dependencies": {
     "react-native-root-siblings": "^1.1.2"
   },
-  "homepage": "https://github.com/liuzheng644607/react-native-intro#readme"
+  "homepage": "https://github.com/18605161612/react-native-Intro#readme"
 }
